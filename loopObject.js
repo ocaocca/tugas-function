@@ -15,7 +15,7 @@ function convertMe(arr) {
 }
 
 // TEST CASES
-convertMe([['Tom', 'Cruise', 'Male', 1962], ['Johnny', 'Deep', 'Male']]);
+convertMe([['Tom', 'Cruise', 'Male', 1962], ['Johnny', 'Deep', 'Male'], ['nobita', 'Male']]);
 // 1. Tom Cruise:
 // { firstName: 'Tom',
 //   lastName: 'Cruise',
